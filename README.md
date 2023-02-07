@@ -2,7 +2,7 @@
 
 I'm a Frontend Developer from Argentina.
 
-<img src="./images/linkedin.png"></img>
+<img styles="width:20px; height: 20px" src="./images/linkedin.png"></img>
 
 <!--
 **lucasFigueira1/lucasFigueira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
