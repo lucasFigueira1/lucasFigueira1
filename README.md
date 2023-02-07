@@ -27,7 +27,9 @@ I'm a 19 years old Frontend Developer from Argentina. 🛸🕺
 
 <hr></hr>
 
-<h3>🙌 Take a look at my <a href="https://lucasfigueira.vercel.app/">Portfolio</a></h3>
+🙌Hey! Check it out my<a href="https://lucasfigueira.vercel.app/">Portfolio</a>
+
+<hr></hr>
 
 <h2>🤔 What I'm open to:</h2>
 <ul>
