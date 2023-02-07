@@ -1,11 +1,13 @@
-<h2> Hi there 👋 It's Lucas </h2>
+<h2> Hi there 👋 It's <a href="https://lucasfigueira.vercel.app/">Lucas</a> </h2>
 
 I'm a Frontend Developer from Argentina. 🛸
+
 
 <h2>🤝 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/lucas-figueira-489a19219/"><img src="./images/linkedin.png" width="21"></a>
 <a href="https://www.instagram.com/lucas.figueira1/"><img src="./images/instagram.png" width="21"></a>
-<a href="https://lucasfigueira.vercel.app/"><img src="./images/logoportfolio.ico" width="21"></a>
+
+</hr>
 
 <h2>What I'm doing</h2>
 <ul>
@@ -14,8 +16,12 @@ I'm a Frontend Developer from Argentina. 🛸
 </ul>
 
 <h2>💼 Technical Skills</h2>
-<a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="21"></a>
-<a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="21"></a>
+<p dir="auto">
+  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="21"></a>
+  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="21"></a>
+</p>
+
+</hr>
 
 <h2>👀 What I'm open to:</h2>
 <ul>
