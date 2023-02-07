@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 It's Lucas
+
+I'm a Frontend Developer from Argentina.
 
 <!--
 **lucasFigueira1/lucasFigueira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
