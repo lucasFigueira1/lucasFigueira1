@@ -2,6 +2,9 @@
 
 I'm a Frontend Developer from Argentina.
 
+🤝 Connect with me:
+<div style="border: 1px solid red"><h1>hola</h1></div>
+
 💼 Technical Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
