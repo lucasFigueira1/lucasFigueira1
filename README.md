@@ -15,6 +15,7 @@ I'm a 19 years old Frontend Developer from Argentina. 🛸🕺
   <li>😄 I'm currently working as freelancer on <a href="https://www.upwork.com/freelancers/~01a4b634b7aaee35fd">UpWork</a>.</li>
   <li>⚡ I'm currently focus on React.</li>
 </ul>
+<br>
 
 <h2>💼 Technical Skills</h2>
 <p dir="auto">
@@ -24,12 +25,12 @@ I'm a 19 years old Frontend Developer from Argentina. 🛸🕺
   <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="21"></a>
   <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="21"></a>
 </p>
+<br>
 
 <hr></hr>
-
 🙌Hey! Check it out my<a href="https://lucasfigueira.vercel.app/"> Portfolio</a>
-
 <hr></hr>
+<br>
 
 <h2>🤔 What I'm open to:</h2>
 <ul>
