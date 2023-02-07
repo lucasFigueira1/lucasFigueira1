@@ -23,13 +23,16 @@ I'm a 19 years old Frontend Developer from Argentina. 🛸🕺
   <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="21"></a>
   <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" width="21"></a>
   <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="21"></a>
+  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="21"></a>
+  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" width="21"></a>
+  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="21"></a>
 </p>
 
 <hr></hr>
 
-<h2>👀 What I'm open to:</h2>
+<h2>🤔 What I'm open to:</h2>
 <ul>
-  <li>I'm open to any proposal. <a href="mailto:imlucasfigueira@gmail.com">Lets talk!</a></li>
+  <li>⚡ I'm open to any proposal. <a href="mailto:imlucasfigueira@gmail.com">Lets talk!</a></li>
 </ul>
 
 <!--
