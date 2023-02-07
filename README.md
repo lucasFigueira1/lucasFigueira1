@@ -2,7 +2,9 @@
 
 I'm a Frontend Developer from Argentina.
 
-<img styles="width:20px; height: 20px" src="./images/linkedin.png"></img>
+💼 Technical Skills
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 <!--
 **lucasFigueira1/lucasFigueira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
