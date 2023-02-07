@@ -2,6 +2,7 @@
 
 I'm a 19 years old Frontend Developer from Argentina. 🛸🕺
 
+<br>
 
 <h2>🤝 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/lucas-figueira-489a19219/"><img src="./images/linkedin.png" width="21"></a>
@@ -19,16 +20,14 @@ I'm a 19 years old Frontend Developer from Argentina. 🛸🕺
 <p dir="auto">
   <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="21"></a>
   <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="21"></a>
+  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="21"></a>
   <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="21"></a>
   <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="21"></a>
-  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" width="21"></a>
-  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="21"></a>
-  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="21"></a>
-  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" width="21"></a>
-  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="21"></a>
 </p>
 
 <hr></hr>
+
+<h3>🙌 Take a look at my <a href="https://lucasfigueira.vercel.app/">Portfolio</a></h3>
 
 <h2>🤔 What I'm open to:</h2>
 <ul>
