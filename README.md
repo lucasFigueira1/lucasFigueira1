@@ -5,13 +5,14 @@ I'm a 19 years old Fullstack Developer from Argentina. 🛸🕺
 <br>
 
 <h2>🤝 Connect with me:</h2>
-<a href="https://www.linkedin.com/in/lucas-figueira-489a19219/"><img src="./images/linkedin.png" width="21"></a>
-<a href="https://www.instagram.com/lucas.figueira1/"><img src="./images/instagram.png" width="21"></a>
+<a href="https://www.linkedin.com/in/lucas-figueira-489a19219/"><img src="./images/linkedin.png" width="24"></a>
+<a href="https://www.instagram.com/lucas.figueira1/"><img src="./images/instagram.png" width="24"></a>
 
 <hr></hr>
 
 <h2>What I'm doing</h2>
 <ul>
+  <li>🦾 I'm currently working as React developer for a startup called COMUNY-T.</li>
   <li>😄 I'm currently working as freelancer on <a href="https://www.upwork.com/freelancers/~01a4b634b7aaee35fd">UpWork</a>.</li>
   <li>⚡ I'm currently focus on React.</li>
 </ul>
