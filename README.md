@@ -12,7 +12,7 @@ I'm a 20 years old Frontend Developer from Argentina. 🛸🕺
 
 <h2>What I'm doing</h2>
 <ul>
-  <li>🦾 I'm currently working as React developer for a startup called COMUNY-T.</li>
+  <li>🦾 I'm currently working as React developer for Ventia</li>
   <li>😄 I'm currently working as freelancer on <a href="https://www.upwork.com/freelancers/~01a4b634b7aaee35fd">UpWork</a>.</li>
   <li>⚡ I'm currently focus on React.</li>
 </ul>
@@ -36,10 +36,6 @@ I'm a 20 years old Frontend Developer from Argentina. 🛸🕺
 <hr></hr>
 <br>
 
-<h2>🤔 What I'm open to:</h2>
-<ul>
-  <li>⚡ I'm open to any proposal. <a href="mailto:imlucasfigueira@gmail.com">Lets talk!</a></li>
-</ul>
 
 <!--
 **lucasFigueira1/lucasFigueira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
