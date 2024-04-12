@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="400" width="100%" src="https://github.com/lucasFigueira1/lucasFigueira1/assets/109543824/d057fa19-1480-42d6-9c76-f9cd317ca2f2"  />
+</div>
+
 <h2> Hi there 👋 It's <a href="https://lucasfigueira.vercel.app/">Lucas</a> </h2>
 
 I'm a 20 years old Frontend Developer from Argentina. 🛸🕺
