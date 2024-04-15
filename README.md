@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="100%" src="https://github.com/lucasFigueira1/lucasFigueira1/assets/109543824/23998259-4ab4-462e-b430-9d8db38f34d9"  />
+  <img height="500" width="100%" src="https://github.com/lucasFigueira1/lucasFigueira1/assets/109543824/23998259-4ab4-462e-b430-9d8db38f34d9"  />
 </div>
 
 <h2> Hi there 👋 It's <a href="https://lucasfigueira.vercel.app/">Lucas</a> </h2>
