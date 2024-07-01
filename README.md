@@ -4,7 +4,7 @@
 
 <h2> Hi there 👋 It's <a href="https://lucasfigueira.vercel.app/">Lucas</a> </h2>
 
-I'm a 20 years old Frontend Developer from Argentina. 🛸🕺
+I'm a 21 years old Frontend Developer from Argentina. 🛸🕺
 
 <br>
 
