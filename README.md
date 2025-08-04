@@ -1,57 +1,50 @@
-<div align="center">
-  <img height="500" width="100%" src="https://github.com/lucasFigueira1/lucasFigueira1/assets/109543824/23998259-4ab4-462e-b430-9d8db38f34d9"  />
-</div>
+### Hola! 👋 Soy Lucas
 
-<h2> Hi there 👋 It's <a href="https://lucasfigueira.vercel.app/">Lucas</a> </h2>
+Desarrollador de software con más de 3 años de experiencia, enfocado en mejorar día a día mis habilidades y en ofrecer la mejor experiencia posible a los usuarios. Actualmente trabajo como **React Native Developer** en una startup, donde participo activamente en el mantenimiento y desarrollo de nuevas funcionalidades de una app móvil.
 
-I'm a 21 years old Frontend Developer from Argentina. 🛸🕺
+---
 
-<br>
+### 🧠 Habilidades técnicas
 
-<h2>🤝 Connect with me:</h2>
-<a href="https://www.linkedin.com/in/lucas-figueira-489a19219/"><img src="./images/linkedin.png" width="24"></a>
-<a href="https://www.instagram.com/lucas.figueira1/"><img src="./images/instagram.png" width="24"></a>
+- **Frontend:** React Native · React.js · Next.js · SwiftUI · Expo
+- **Backend & scripting:** Node.js · Python · n8n
+- **Lenguajes:** JavaScript · TypeScript
+- **Testing:** Jest
+- **DevOps:** Git · GitHub · AWS
+- **UX/UI:** Figma · Sass
+- **Mobile:** Android · iOS
 
-<hr></hr>
+---
 
-<h2>What I'm doing</h2>
-<ul>
-  <li>🦾 I'm currently working as React developer for Ventia</li>
-  <li>😄 I'm currently working as freelancer on <a href="https://www.upwork.com/freelancers/~01a4b634b7aaee35fd">UpWork</a>.</li>
-  <li>⚡ I'm currently focus on React.</li>
-</ul>
-<br>
+### 🚀 En lo que estoy trabajando
 
-<h2>💼 Technical Skills</h2>
-<p dir="auto">
-  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="24"></a>
-  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="24"></a>
-  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" width="24"></a>
-  <a><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="24"></a>
-  <a><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="24"></a>
-  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="24"></a>
-  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="24"></a>
-  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="24"></a>
-</p>
-<br>
+Actualmente me enfoco en:
+- Mejorar la performance y estabilidad de apps móviles
+- Crear interfaces intuitivas y accesibles
+- Automatizar procesos con herramientas como **n8n**
+- Aprender nuevas herramientas y compartir conocimiento
 
-<hr></hr>
-🙌Hey! Check it out my<a href="https://lucasfigueira.vercel.app/"> Portfolio</a>
-<hr></hr>
-<br>
+---
 
+### 📫 ¿Querés contactarme?
 
-<!--
-**lucasFigueira1/lucasFigueira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
+- 🌐 [Portfolio / sitio personal](https://TU-SITIO.com) <!-- opcional -->
+- 📧 lucas@example.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🤓 Fun fact
+
+> “El software es una herramienta para mejorar la vida de las personas. Si no lo hace, todavía podemos mejorarlo.”
+
+---
+
+<!-- Puedes agregar estas secciones si querés más personalización:
+### 📊 GitHub Stats
+![Tu nombre GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=default)
+
+### 🌱 Últimos proyectos
+- [Nombre del proyecto](link)
 -->
+
